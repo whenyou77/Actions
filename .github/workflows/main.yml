@@ -1,4 +1,4 @@
-name: Create Issue Branch
+name: Create Branch
 on:
   # The issue.opened event below is only needed for the "immediate" mode.
   # The issue.assigned event below is only needed for the default ("auto") mode.
